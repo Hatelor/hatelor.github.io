@@ -1,0 +1,193 @@
+body{
+    margin:0 ;
+    
+    padding:0;
+    background-color:#ffffff;
+    font-weight:900px;
+    font-size:15px;  
+}
+
+
+#foot{
+    text-align:center;
+    
+    
+}
+
+   
+
+
+
+
+#sl{
+    color:#26ff00;
+    font-style:italic;
+    font-weight:bold;
+    font-size:100px;
+    
+}
+#hb{
+    color:#ff15e7;
+    font-weight:600px;
+    font-size:20px;
+}
+.domain{
+    text-align:center;
+    
+} 
+.domains{  
+     margin-left:60px;
+ 
+}
+
+#title{
+
+    background-color:#010000d1;
+    margin:0;
+    text-align:center;
+}
+#fin{
+    background-color:#0208018f;
+}
+#copy{
+    color:white;
+    margin:0;
+}
+nav ul li{
+    display: inline-block;
+    margin:30px;
+    border:4px red solid;
+    padding-right:5px;
+    border:1px #4f5e9e solid;
+    background-color:#090411b2;
+    
+       
+}
+nav ul a{
+    text-decoration:none;
+    color:#b7dcd3;
+    font-size:30px;   
+}
+#offers{
+font-weight:70px;
+font-size:40px;
+color:#7015ff;
+text-shadow:1.5px 2px black;
+    
+}
+nav{
+    background:#ce00ff;
+    margin:10px;
+}
+ fieldset{
+    width:70%;
+    margin:0 auto;   
+}
+fieldset p{
+ text-align:center;
+
+    
+}
+#experience{
+    text-align:center;
+}
+    
+
+/* style of about page */
+h1{
+  text-decoration:underline #0018ff;
+  text-align: center;
+  
+}
+
+
+
+.title{
+  text-decoration:underline;
+  text-align: center;
+  color:#121524;
+}
+
+
+body{
+  font-style:italic;
+  
+}
+
+
+p.class1{
+  font-size:20px;
+  font-weight:350;
+  line-height:30px;
+  line-family:calibri;
+  text-shadow: 1px 0px;
+  text-indent: 5%;
+}
+
+
+p.class2{
+  font-size:20px;
+  font-weight:350;
+  line-height:30px;
+  line-family:calibri;
+  text-shadow: 1px 0px;
+  text-indent: 5%;
+}
+
+
+p.class3{
+  font-size:20px;
+  font-weight:350;
+  line-height:30px;
+  line-family:calibri;
+  text-shadow: 1px 0px;
+  text-indent: 5%;
+}
+
+
+p.class4{
+  font-size:20px;
+  font-weight:350;
+  line-height:30px;
+  line-family:calibri;
+  text-shadow: 1px 0px;
+  text-indent: 5%;
+}
+
+
+
+ p.class5{
+  font-size:20px;
+  font-weight:350;
+  line-height:30px;
+  line-family:calibri;
+  text-shadow: 1px 0px;
+  text-indent: 5%;
+  color:white;
+}
+.foot{
+  
+  marging-top:122200 px;
+  text-align:center;
+  position:relative;
+  bottom:100;
+  
+}
+#adress{
+    color:white;
+}
+
+
+
+
+
+.principal{
+background-color:#6b5a9b;
+padding:1px;
+padding-down:1px;
+margin:12px;
+color:white
+}
+section .title{
+    color:white;
+}
